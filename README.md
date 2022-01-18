@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Belajar React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Membuat aplikasi travel advisory dengan react
+
+Tutorial dari youtube: https://www.youtube.com/watch?v=GDa8kZLNhJ4
+
 
 ## Available Scripts
 
